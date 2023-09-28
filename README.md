@@ -5,7 +5,7 @@
 
 ## davigotardi's GitHub stats
 
-[![davigotardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davigotardi&theme=dracula&rank=A)](https://github.com/davigotardi/github-readme-stats)
+[![davigotardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davigotardi&theme=dracula)](https://github.com/davigotardi/github-readme-stats)
   
 
 <div style="display: inline_block"><br>
