@@ -3,6 +3,11 @@
 - 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning React Native and Typescript
 
+## davigotardi's GitHub stats
+
+[![davigotardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davigotardi&theme=dracula&rank=A)](https://github.com/davigotardi/github-readme-stats)
+  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="davigotardi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="davigotardi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
