@@ -1,7 +1,7 @@
 ### Hi there I am Davi 👋
 
 - 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning React Native and Typescript
+- 🌱 I’m currently learning React Native
   
 
 <div style="display: inline_block"><br>
