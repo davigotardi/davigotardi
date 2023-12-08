@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Front-end
 - 🌱 I’m currently learning React Native
-  
+- 💻 I’m currently studying Software Analysis and Development
 
 <div style="display: inline_block"><br>
   <img align="center" alt="davigotardi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
