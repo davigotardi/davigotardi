@@ -1,8 +1,8 @@
 ### Hi there I am Davi 👋
 
 - 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning React Native
-- 💻 I’m currently studying Software Analysis and Development
+- 🌱 I’m learning React Native
+- 💻 I’m studying Software Analysis and Development
 
 <div style="display: inline_block"><br>
   <img align="center" alt="davigotardi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
