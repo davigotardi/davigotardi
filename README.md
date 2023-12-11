@@ -1,6 +1,6 @@
 ### Hi there I am Davi 👋
 
-- 🔭 I’m currently working on Front-end
+- 🔭 I’m currently working as Front-end | Web Developer
 - 🌱 I’m learning React Native
 - 💻 I’m studying Software Analysis and Development
 
