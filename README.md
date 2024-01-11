@@ -1,4 +1,4 @@
-### Hi there I am Davi 👋
+### Hi there 👋
 
 - 🔭 I’m currently working as Front-end | Web Developer
 - 🌱 I’m learning React Native
