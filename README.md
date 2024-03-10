@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Front-end | Web Developer
-- 🌱 I’m learning React Native
 - 💻 I’m studying Software Analysis and Development
 
   
