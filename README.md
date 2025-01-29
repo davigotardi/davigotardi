@@ -1,6 +1,7 @@
 ### Olá 👋
 
 - 💻 Estudante de Análise e Desenvolvimentos De Sistemas (3° semestre)
+- ⌨️ Nesse perfil há projetos que fiz para o meu curso ou para treinar. 
 
   
 ### Linguagens 👨🏻‍💻 
