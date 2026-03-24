@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 💻 Estudante de Análise e Sistemas Da Informação (3° semestre)
+- 💻 Estudante de Sistemas Da Informação (3° semestre)- Unisul 
 - ⌨️ Nesse perfil há projetos que fiz para o meu curso e projetos pessoais. 
 
   
