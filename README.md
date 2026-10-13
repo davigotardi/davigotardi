@@ -2,8 +2,7 @@
 
 - 💻 Estudante de Sistemas Da Informação (4° semestre)- Unisul
 - 🏖️ Florianópolis, SC
-- 🧪 Estudando Testes Manuais e Testes Automatizados
-- 🚀 Apaixonado por Qualidade de Software e QA Automation
+
   
 
 <div align="center"> </div>
